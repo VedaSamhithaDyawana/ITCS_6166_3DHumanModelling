@@ -18,5 +18,5 @@ For people with hearing impairments to easily communicate with sighted people, T
 Blind people can communicate with others thanks to hand gesture recognition technology, which recognizes and captures their voice and outputs it in text format. To understand the communication, voice recordings are used in conjunction with webcams to track hand movements. The images are then resized with the aid of pre-processing. Making a system that can convert speech and hand gestures into text is the aim of this study. To aid in identification, hand gestures are analyzed. Deaf people and hearing people can communicate more effectively thanks to the technology's text output.
 
 
-# 3.We will use ‘Client Server Application’ Architecture.
+# 3.‘Client Server Application’ in 3D Human Modelling.
 
