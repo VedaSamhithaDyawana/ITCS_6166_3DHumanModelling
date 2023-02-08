@@ -19,4 +19,15 @@ Blind people can communicate with others thanks to hand gesture recognition tech
 
 
 # 3.‘Client Server Application’ in 3D Human Modelling.
+# 4. Week 1 :
+Day 1 : Planned to conduct a meeting with team to review and understand project scope, objectives, and timeline.
+Day 2-3 : Will do research and gather the necessary requirements. And also, will do the background study.
+Day 4-5 : Will create a detailed task list and assign it to team members.
+Day 6-7 : Planned to develop the high-level design and architecture and analysis of methodology.
+
+Week 2:
+Day 8-9 : Will start coding and development work. Modelling of problems
+Day 10-11 : Conduct the code reviews and will test the code together with team in order to check each and every functionality.
+Day 12-13 : Will address any bugs or issues found during the testing and will fix those issues. Evaluation of results.
+Day 14 : Final review and documentation.
 
