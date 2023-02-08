@@ -19,7 +19,8 @@ Blind people can communicate with others thanks to hand gesture recognition tech
 
 
 # 3.‘Client Server Application’ in 3D Human Modelling.
-# 4. Week 1 :
+# 4. Project plan based on two weeks iteration 
+Week 1 :
 Day 1 : Planned to conduct a meeting with team to review and understand project scope, objectives, and timeline.
 Day 2-3 : Will do research and gather the necessary requirements. And also, will do the background study.
 Day 4-5 : Will create a detailed task list and assign it to team members.
