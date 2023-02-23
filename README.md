@@ -20,13 +20,16 @@ Iteration 1:
 •	Create a basic client server functionality and conduct initial testing.
 •	Create a WebRTC environment using the resources provided.
 •	Initial testing of the web app connected via WebRTC.
+
 Iteration 2:
 •	Make necessary changes to the algorithm after initial testing.
 •	Integrate audio and video transmission functionality using WebRTC.
 •	Implement video transmission into web browser
+
 Iteration 3:
 •	Conduct code reviews and address the bugs found during testing.
 •	Improve performance, scalability of the algorithm.
+
 Iteration 4:
 •	Evaluates the results and complete documentation for the project.
 •	Presentation on the final project.
