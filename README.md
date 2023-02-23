@@ -1,5 +1,6 @@
 # ITCS_6166_3DHumanModelling
 # 1.Student Details in the Group:
+Group 10 :
   •	Veda Samhitha Dyawanapally. 
   •	Vigneshwar Muriki.
   •	Mounika Kasaragadda.
