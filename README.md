@@ -1,7 +1,6 @@
 # ITCS_6166_3DHumanModelling
 # 1.Student Details in the Group:
 Group 10 :
-
   •	Veda Samhitha Dyawanapally. 
   •	Vigneshwar Muriki.
   •	Mounika Kasaragadda.
@@ -16,24 +15,37 @@ The proposed model is deployed into a AWS, GCP or any other cloud service. Video
 # 3.‘Client Server Application’ in 3D Human Modelling.
 We will be using Client server architecture in this project. The backend part will be implemented using python/flask. We will be using WebRTC as the underlying communication between client and server.
 # 4. Project plan based on two weeks iteration 
-Iteration 1 : 
-•	Planned to conduct a meeting with team to review and understand project scope, objectives, and timeline. 
+### Iteration 1:
+
+•	Planned to conduct a meeting with team to review and understand project scope, objectives, and timeline.
+
 •	Research and gather the necessary requirements. And also, will do the background study about the topic.
+
 •	Create a basic client server functionality and conduct initial testing.
+
 •	Create a WebRTC environment using the resources provided.
+
 •	Initial testing of the web app connected via WebRTC.
 
-Iteration 2:
+### Iteration 2:
+
 •	Make necessary changes to the algorithm after initial testing.
+
 •	Integrate audio and video transmission functionality using WebRTC.
+
 •	Implement video transmission into web browser
 
-Iteration 3:
+### Iteration 3:
+
 •	Conduct code reviews and address the bugs found during testing.
+
 •	Improve performance, scalability of the algorithm.
 
-Iteration 4:
+### Iteration 4:
+
 •	Evaluates the results and complete documentation for the project.
+
 •	Presentation on the final project.
+
 •	Upload the final report as well as the code onto canvas.
 
