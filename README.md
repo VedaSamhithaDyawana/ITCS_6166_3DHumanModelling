@@ -16,7 +16,7 @@ The proposed model is deployed into a AWS, GCP or any other cloud service. Video
 # 3.‘Client Server Application’ in 3D Human Modelling.
 We will be using Client server architecture in this project. The backend part will be implemented using python/flask. We will be using WebRTC as the underlying communication between client and server.
 # 4. Project plan based on two weeks iteration 
-Iteration 1: 
+Iteration 1 : 
 •	Planned to conduct a meeting with team to review and understand project scope, objectives, and timeline. 
 •	Research and gather the necessary requirements. And also, will do the background study about the topic.
 •	Create a basic client server functionality and conduct initial testing.
