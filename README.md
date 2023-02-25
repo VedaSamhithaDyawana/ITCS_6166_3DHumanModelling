@@ -10,6 +10,9 @@ Group 10 :
 ## 3D Human Modeling:
 A physical body is represented by three-dimensional (3D) models using a network of points connected by various geometrical objects like triangles, lines, curved surfaces, etc. The process of creating three-dimensional representations of an object or surface is known as three-dimensional modeling. A detailed and accurate 3D model of a human body is what is intended by 3D human modeling. This model can then be used for a variety of applications, including animation, video games, virtual reality, and human-computer interaction.
 The proposed model is deployed into a AWS, GCP or any other cloud service. Video data is transmitted and processed using WebRTC protocols.
+And here is the model that we are going to use
+
+https://github.com/Danial-Kord/DigiHuman
 
 
 # 3.‘Client Server Application’ in 3D Human Modelling.
