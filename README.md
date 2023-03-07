@@ -4,7 +4,7 @@ Group 10 :
   •	Veda Samhitha Dyawanapally. 
   •	Vigneshwar Muriki.
   •	Mounika Kasaragadda.
-  •	Deepthi Gade - 801313372
+  •	Deepthi Gade.
 
 # 2.Introduction:
 ## 3D Human Modeling:
