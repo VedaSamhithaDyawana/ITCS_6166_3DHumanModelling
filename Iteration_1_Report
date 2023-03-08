@@ -5,6 +5,7 @@ WebRTC, which stands for Web Real-Time Communication, is a free, open-source pro
 
 WebRTC is necessary because it offers a quick and effective method for real-time communication between web browsers and mobile applications without the need for additional plugins or software installations. Real-time communication between web browsers and devices was frequently difficult before WebRTC was developed and required the use of third-party plugins, which were frequently unreliable and presented security risks.
 
+The project was developed using HTML, CSS as front-end tools and Javascript and NodeJS as Back-end tool. 
 
 ## Config.js:
 
