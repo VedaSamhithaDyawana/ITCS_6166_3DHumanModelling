@@ -1,0 +1,11 @@
+1.	Before you run the program run the below commands in the terminal
+      1.	npm install node – this command installs the node modules
+      2.	npm install socket.io
+      3.	npm install express
+2.	Open the terminal and navigate to the folder where the index.js is located
+3.	Before you run the below command open xirsys.com and create an account. Create a new app and copy the username and credentials in the STUN server credentials section.  
+4.	Use this command in the command prompt – node index.js
+5.	Open the browser and type localhost:8000
+6.	A dialog prompt will open and ask for the room ID and enter a random name. For instance, dog
+7.	Open a new tab and type localhost:8000 and type the same room name 
+8.	The output will be the two cameras of the sender and the receiver next to each other
