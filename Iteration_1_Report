@@ -1,3 +1,11 @@
+## 3D Human Modelling:
+
+## WebRTC:
+WebRTC, which stands for Web Real-Time Communication, is a free, open-source project that offers real-time communication capabilities via basic APIs to web browsers and mobile applications (Application Programming Interfaces). With WebRTC, peer-to-peer data, audio, and video sharing is possible between browsers and devices without the need for additional plugins or software installations. WebRTC uses encryption and it offers secure communication, and it supports a variety of media formats, including audio, video, and data.
+
+WebRTC is necessary because it offers a quick and effective method for real-time communication between web browsers and mobile applications without the need for additional plugins or software installations. Real-time communication between web browsers and devices was frequently difficult before WebRTC was developed and required the use of third-party plugins, which were frequently unreliable and presented security risks.
+
+
 ## Config.js:
 
 The WebRTC application can use this JavaScript object to define a list of ICE servers for use in creating a peer-to-peer connection between two clients.
