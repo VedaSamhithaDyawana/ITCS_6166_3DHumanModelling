@@ -16,6 +16,10 @@ Xirsys provides the TURN server, which needs to be authenticated with a username
 
 Overall, even when the clients are protected by firewalls or network address translation (NAT) devices, this configuration object provides the information required for the WebRTC application to establish a dependable and secure peer-to-peer connection between two clients.
 
+## Index.js:
+Then in the next part a signaling server is established for WebRTC. To accomplish this, the JavaScript file will create a HTTP server utilizing the express.js framework and Socket.IO library to handle WebSocket connections. The script is responsible for serving static files found in the public directory, logging messages to a client console when they connect to the server and defining two events called “message” and “create or join” to handle incoming messages from clients. Whenever the server receives a message event from a client, it logs the message to the console and transmits the message to all other clients in the same room as the sender. When the server gets create or join event from a client, it verifies the number of clients in the specified room and takes the appropriate action based on the number of clients.
+If the room is vacant the client who triggered the event is added to the room and emits a created event. If there is only one client in the room, the client who initiated the event joins the room and emits a joined event. If two clients already exist in the room, the server transmits a full event to the client. The server also retrieves the IP address of the server and transmits it to the client when it receives an ipaddr event from a client. Lastly, when the server receives a bye event from a client, it logs a message to the server console.
+
 ## Main.js:
 
 This JavaScript code demonstrates how WebRTC is implemented for video conferencing. It creates a peer-to-peer connection between two users in a room and displays their local and remote streams on a webpage.
