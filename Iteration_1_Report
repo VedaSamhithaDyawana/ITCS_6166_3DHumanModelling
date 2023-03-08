@@ -51,3 +51,5 @@ When the remote stream is added to the RTCPeerConnection object, the handleRemot
 
 The code then creates a window. When a user closes a window, an onbeforeunload event handler uses the sendMessage function to send a good-bye message to all clients in the same room.
 
+In this iteration, we studied the resources provided created a simple video web app using the WebRTC Protocols. This will act as the building block for the upcoming iterations.
+In the next iteration, we will run the model and integrate it to the web browser where the the one of the camera will be the user and the other camera will display the 3D model of the user.
