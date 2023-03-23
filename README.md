@@ -32,11 +32,9 @@ We will be using Client server architecture in this project. The backend part wi
 
 ### Iteration 2:
 
-•	Make necessary changes to the algorithm after initial testing.
+•	Make changes to the Unity model if necessary after initial testing.
 
-•	Integrate audio and video transmission functionality using WebRTC.
-
-•	Implement video transmission into web browser
+•	Download the WebGL model and deploy it to the browser.
 
 ### Iteration 3:
 
