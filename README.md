@@ -40,7 +40,7 @@ We will be using Client server architecture in this project. The backend part wi
 
 ### Iteration 3:
 
-•	Working on the issues after the Flash talk.
+•	Working on the issues discussed in the Flash talk by constantly setting up meetings with the professor to discuss the issues.
 
 ### Iteration 4:
 
