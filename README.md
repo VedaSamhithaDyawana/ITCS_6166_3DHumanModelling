@@ -40,13 +40,11 @@ We will be using Client server architecture in this project. The backend part wi
 
 ### Iteration 3:
 
-•	Conduct code reviews and address the bugs found during testing.
-
-•	Improve performance, scalability of the algorithm.
+•	Working on the issues after the Flash talk.
 
 ### Iteration 4:
 
-•	Evaluates the results and complete documentation for the project.
+•	Deploy the model into browser and integrate WebRTC to enable real time communication with the model.
 
 •	Presentation on the final project.
 
